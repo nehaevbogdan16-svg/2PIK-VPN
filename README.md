@@ -8,4 +8,4 @@
 
 ```text
 
-https://raw.githubusercontent.com/nehaevbogdan16-svg/Citadel-vpn-sub/main/CitadelVPN/2PIK.txt
+https://raw.githubusercontent.com/nehaevbogdan16-svg/Citadel-vpn-sub/main/CitadelVPN/3PIK.txt
