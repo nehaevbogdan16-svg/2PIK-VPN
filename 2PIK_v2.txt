@@ -4,7 +4,11 @@
 
 #profile-author: 2PIK
 
-#profile-support-url: https://t.me/no2PIK
+#support-url: https://t.me/no2PIK
+
+subscription-userinfo: upload=0;download=1073741824;total=0;expire=1794956400
+
+#announce: Только свои 2PIK
 
 vless://9645effd-486f-4980-a027-597ab9663f27@my.console.pc-club.app:443?encryption=none&flow=&type=ws&host=my.console.pc-club.app&path=/v1/data/chunk/&security=tls&fp=firefox&sni=my.console.pc-club.app&alpn=http/1.1#%F0%9F%87%B8%F0%9F%87%B4%202PIK%20%D0%90%D0%B2%D1%82%D0%BE-%D0%BE%D0%B1%D1%85%D0%BE%D0%B4
 
