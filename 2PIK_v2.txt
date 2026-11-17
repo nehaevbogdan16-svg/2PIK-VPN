@@ -10,7 +10,7 @@ subscription-userinfo: upload=0;download=1073741824;total=0;expire=1794956400
 
 #announce: Только свои 2PIK
 
-vless://9645effd-486f-4980-a027-597ab9663f27@nl-1.viralforge.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=nl-1.viralforge.ru&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B0%D1%81%D1%82%D1%91%D0%BD%D0%BA%D0%B0,%20%D0%B7%D0%B0%D0%B9%D0%B4%D0%B8%20%D0%B2%20%D0%92%D0%9A
+vless://9645effd-486f-4980-a027-597ab9663f27@nl-1.viralforge.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=nl-1.viralforge.ru&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&sid=a1b2c3d4b5#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%B3%D0%BE%20%D0%B4%D0%B5%D0%BD%D1%91%D1%87%D0%BA%D0%B0%F0%9F%8D%80
 
 vless://9645effd-486f-4980-a027-597ab9663f27@my.console.pc-club.app:443?encryption=none&flow=&type=ws&host=my.console.pc-club.app&path=/v1/data/chunk/&security=tls&fp=firefox&sni=my.console.pc-club.app&alpn=http/1.1#%F0%9F%87%B8%F0%9F%87%B4%202PIK%20%D0%90%D0%B2%D1%82%D0%BE-%D0%BE%D0%B1%D1%85%D0%BE%D0%B4
 
